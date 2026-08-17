@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-318efm.1casino.co.nz/sitemap.xml
